@@ -1,4 +1,4 @@
-package nessusgo
+package gonessus
 
 import (
 	"crypto/tls"

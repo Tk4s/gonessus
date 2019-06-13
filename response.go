@@ -1,4 +1,4 @@
-package nessusgo
+package gonessus
 
 import (
 	"encoding/json"
